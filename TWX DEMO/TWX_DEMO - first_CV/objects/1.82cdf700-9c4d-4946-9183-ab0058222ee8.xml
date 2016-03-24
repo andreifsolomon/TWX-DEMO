@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamworks>
+    <process id="1.82cdf700-9c4d-4946-9183-ab0058222ee8" name="my HS">
+        <lastModified>1458843732723</lastModified>
+        <lastModifiedBy>sp</lastModifiedBy>
+        <processId>1.82cdf700-9c4d-4946-9183-ab0058222ee8</processId>
+        <image isNull="true" />
+        <tabGroup isNull="true" />
+        <startingProcessItemId>2025.02ec1842-6722-4a20-9801-e130dd60b0b0</startingProcessItemId>
+        <isRootProcess>false</isRootProcess>
+        <processType>3</processType>
+        <isErrorHandlerEnabled>false</isErrorHandlerEnabled>
+        <errorHandlerItemId isNull="true" />
+        <isLoggingVariables>false</isLoggingVariables>
+        <isTransactional>false</isTransactional>
+        <processTimingLevel isNull="true" />
+        <participantRef isNull="true" />
+        <exposedType isNull="true" />
+        <isTrackingEnabled>true</isTrackingEnabled>
+        <xmlData isNull="true" />
+        <cachingType>false</cachingType>
+        <itemLabel isNull="true" />
+        <cacheLength>43200</cacheLength>
+        <mobileReady>false</mobileReady>
+        <sboSyncEnabled>true</sboSyncEnabled>
+        <description isNull="true" />
+        <guid>guid:efcfddd3d19146ab:-13862f9:153a9d7e34d:-7fff</guid>
+        <versionId>e7fe9c19-13ad-40a8-9444-4fba7c42dc8f</versionId>
+        <item>
+            <lastModified isNull="true" />
+            <lastModifiedBy isNull="true" />
+            <processItemId>2025.93dde13e-074f-4235-9e07-516c9410d2fd</processItemId>
+            <processId>1.82cdf700-9c4d-4946-9183-ab0058222ee8</processId>
+            <name>End</name>
+            <tWComponentName>ExitPoint</tWComponentName>
+            <tWComponentId>3008.5f8169d4-1dd1-4cba-a9fa-3b66f10fba19</tWComponentId>
+            <isLogEnabled>false</isLogEnabled>
+            <isTraceEnabled>false</isTraceEnabled>
+            <traceCategory isNull="true" />
+            <traceLevel isNull="true" />
+            <traceMessage isNull="true" />
+            <traceSymbolTable isNull="true" />
+            <isExecutionContextTraced>false</isExecutionContextTraced>
+            <saveExecutionContext>true</saveExecutionContext>
+            <documentation isNull="true" />
+            <isErrorHandlerEnabled>false</isErrorHandlerEnabled>
+            <errorHandlerItemId isNull="true" />
+            <guid>guid:efcfddd3d19146ab:-13862f9:153a9d7e34d:-7ffe</guid>
+            <versionId>bc19617d-efb1-4526-b867-70499556b21c</versionId>
+            <layoutData x="700" y="100">
+                <errorLink>
+                    <controlPoints />
+                    <showEndState>false</showEndState>
+                    <showName>false</showName>
+                </errorLink>
+            </layoutData>
+            <TWComponent>
+                <lastModified isNull="true" />
+                <lastModifiedBy isNull="true" />
+                <exitPointId>3008.5f8169d4-1dd1-4cba-a9fa-3b66f10fba19</exitPointId>
+                <haltProcess>false</haltProcess>
+                <guid>8ad87321-a8f2-4d29-b937-6aa2e40f5d45</guid>
+                <versionId>b12bec8b-c0fe-4bf1-94be-f2e8bbef14b5</versionId>
+            </TWComponent>
+        </item>
+        <item>
+            <lastModified isNull="true" />
+            <lastModifiedBy isNull="true" />
+            <processItemId>2025.02ec1842-6722-4a20-9801-e130dd60b0b0</processItemId>
+            <processId>1.82cdf700-9c4d-4946-9183-ab0058222ee8</processId>
+            <name>Untitled1</name>
+            <tWComponentName>CoachNG</tWComponentName>
+            <tWComponentId>3028.09c853b1-a6a4-493a-b2ba-15fb2ec34018</tWComponentId>
+            <isLogEnabled>false</isLogEnabled>
+            <isTraceEnabled>false</isTraceEnabled>
+            <traceCategory isNull="true" />
+            <traceLevel isNull="true" />
+            <traceMessage isNull="true" />
+            <traceSymbolTable isNull="true" />
+            <isExecutionContextTraced>false</isExecutionContextTraced>
+            <saveExecutionContext>true</saveExecutionContext>
+            <documentation isNull="true" />
+            <isErrorHandlerEnabled>false</isErrorHandlerEnabled>
+            <errorHandlerItemId isNull="true" />
+            <guid>guid:efcfddd3d19146ab:-13862f9:153a9d7e34d:-7ffc</guid>
+            <versionId>2c508b0a-78c5-4fe0-a971-60c94c30888a</versionId>
+            <layoutData x="345" y="84">
+                <errorLink>
+                    <controlPoints />
+                    <showEndState>false</showEndState>
+                    <showName>false</showName>
+                </errorLink>
+            </layoutData>
+            <TWComponent>
+                <lastModified isNull="true" />
+                <lastModifiedBy isNull="true" />
+                <coachNGId>3028.09c853b1-a6a4-493a-b2ba-15fb2ec34018</coachNGId>
+                <title>Untitled1</title>
+                <layoutData>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&#xD;
+&lt;layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.ibm.com/bpm/CoachDesignerNG"&gt;&#xD;
+  &lt;layoutItem xsi:type="ViewRef" version="8560"&gt;&#xD;
+    &lt;layoutItemId&gt;OK_1&lt;/layoutItemId&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@label&lt;/optionName&gt;&#xD;
+      &lt;value&gt;OK&lt;/value&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;viewUUID&gt;64.36f46ec6-616b-4e38-86aa-fba20ec6f9b4&lt;/viewUUID&gt;&#xD;
+  &lt;/layoutItem&gt;&#xD;
+  &lt;layoutItem xsi:type="ViewRef" version="8560"&gt;&#xD;
+    &lt;layoutItemId&gt;Text1&lt;/layoutItemId&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@label&lt;/optionName&gt;&#xD;
+      &lt;value&gt;Text&lt;/value&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@helpText&lt;/optionName&gt;&#xD;
+      &lt;value&gt;&lt;/value&gt;&#xD;
+      &lt;valueType&gt;static&lt;/valueType&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@visibility&lt;/optionName&gt;&#xD;
+      &lt;value&gt;DEFAULT&lt;/value&gt;&#xD;
+      &lt;valueType&gt;static&lt;/valueType&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@labelVisibility&lt;/optionName&gt;&#xD;
+      &lt;value&gt;SHOW&lt;/value&gt;&#xD;
+      &lt;valueType&gt;static&lt;/valueType&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@baseTextDirection&lt;/optionName&gt;&#xD;
+      &lt;value&gt;DEFAULT&lt;/value&gt;&#xD;
+      &lt;valueType&gt;static&lt;/valueType&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;viewUUID&gt;64.c7761177-42d2-45da-8d66-679d8f3eeccc&lt;/viewUUID&gt;&#xD;
+  &lt;/layoutItem&gt;&#xD;
+  &lt;layoutItem xsi:type="ViewRef" version="8560"&gt;&#xD;
+    &lt;layoutItemId&gt;my_CV1&lt;/layoutItemId&gt;&#xD;
+    &lt;configData&gt;&#xD;
+      &lt;optionName&gt;@label&lt;/optionName&gt;&#xD;
+      &lt;value&gt;my CV&lt;/value&gt;&#xD;
+    &lt;/configData&gt;&#xD;
+    &lt;viewUUID&gt;64.10b86a54-746f-4d38-b4a9-4d61b7485f9d&lt;/viewUUID&gt;&#xD;
+  &lt;/layoutItem&gt;&#xD;
+&lt;/layout&gt;</layoutData>
+                <guid>89cb7d73-af87-47fc-93c7-66ae287190a2</guid>
+                <versionId>d6989a37-35d8-4392-a6e8-9452e76da404</versionId>
+                <CoachNGBoundaryEvents>
+                    <lastModified isNull="true" />
+                    <lastModifiedBy isNull="true" />
+                    <coachNGBoundaryEventId>3029.d7be7313-04b0-445f-aeea-ffbd3d4841cd</coachNGBoundaryEventId>
+                    <coachNGId>3028.09c853b1-a6a4-493a-b2ba-15fb2ec34018</coachNGId>
+                    <seq>1</seq>
+                    <endStateId>57a3d97a-9bff-4b6d-9145-3d1c5aa09db3</endStateId>
+                    <eventLabel>OK</eventLabel>
+                    <viewPath>OK_1</viewPath>
+                    <isValidateBoundaryEvent>false</isValidateBoundaryEvent>
+                    <fireValidation>0</fireValidation>
+                    <guid>aeaaf025-7ae0-41e6-8f73-6174bfcc7d63</guid>
+                    <versionId>cbe4fd27-bcee-4f29-a57a-ecff9fd3daaf</versionId>
+                </CoachNGBoundaryEvents>
+            </TWComponent>
+        </item>
+        <startingProcessItemId>2025.02ec1842-6722-4a20-9801-e130dd60b0b0</startingProcessItemId>
+        <errorHandlerItemId isNull="true" />
+        <layoutData noConversion="true">
+            <errorLink>
+                <controlPoints />
+                <showEndState>false</showEndState>
+                <showName>false</showName>
+            </errorLink>
+        </layoutData>
+        <startPoint>
+            <layoutData x="20" y="100">
+                <errorLink>
+                    <controlPoints />
+                    <showEndState>false</showEndState>
+                    <showName>false</showName>
+                </errorLink>
+            </layoutData>
+        </startPoint>
+        <startLink>
+            <fromPort locationId="rightCenter" portType="1" />
+            <toPort locationId="leftCenter" portType="2" />
+            <layoutData>
+                <controlPoints />
+                <showEndState>false</showEndState>
+                <showName>false</showName>
+            </layoutData>
+        </startLink>
+        <link name="Untitled">
+            <lastModified isNull="true" />
+            <lastModifiedBy isNull="true" />
+            <processLinkId>2027.c3b0662a-30d5-4c3a-bc05-4d3229efc48c</processLinkId>
+            <processId>1.82cdf700-9c4d-4946-9183-ab0058222ee8</processId>
+            <description isNull="true" />
+            <fromProcessItemId>2025.02ec1842-6722-4a20-9801-e130dd60b0b0</fromProcessItemId>
+            <endStateId>57a3d97a-9bff-4b6d-9145-3d1c5aa09db3</endStateId>
+            <toProcessItemId>2025.93dde13e-074f-4235-9e07-516c9410d2fd</toProcessItemId>
+            <guid>00b7317f-b56d-434b-a613-bffc8fda1560</guid>
+            <versionId>9c37d591-edbf-4301-818b-7ce1ba3665a7</versionId>
+            <layoutData>
+                <controlPoints />
+                <showEndState>true</showEndState>
+                <showName>false</showName>
+            </layoutData>
+            <fromItemPort locationId="rightCenter" portType="1" />
+            <toItemPort locationId="leftCenter" portType="2" />
+            <fromProcessItemId>2025.02ec1842-6722-4a20-9801-e130dd60b0b0</fromProcessItemId>
+            <toProcessItemId>2025.93dde13e-074f-4235-9e07-516c9410d2fd</toProcessItemId>
+        </link>
+    </process>
+</teamworks>
+

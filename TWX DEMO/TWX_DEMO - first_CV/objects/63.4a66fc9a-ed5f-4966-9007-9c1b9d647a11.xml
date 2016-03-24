@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamworks>
+    <projectDefaults id="63.4a66fc9a-ed5f-4966-9007-9c1b9d647a11" name="Process App Settings">
+        <lastModified>1458843463251</lastModified>
+        <lastModifiedBy>sp</lastModifiedBy>
+        <projectDefaultsId>63.4a66fc9a-ed5f-4966-9007-9c1b9d647a11</projectDefaultsId>
+        <description isNull="true" />
+        <guid>3ab8492c-a391-49f9-ba18-f8dd56977bef</guid>
+        <versionId>47578b53-3c0c-4f96-9132-d292fc62a190</versionId>
+        <participantRef isNull="true" />
+        <defaultXslRef>dbf2a4c1-c74a-4449-b4c6-d6d88bebcaca/61.140920b1-a53c-4d72-b6bb-60776f49f7f2</defaultXslRef>
+        <defaultCssRef>dbf2a4c1-c74a-4449-b4c6-d6d88bebcaca/61.aabe9f91-df4b-43db-857c-41dbed4820a3</defaultCssRef>
+        <defaultJsRefs isNull="true" />
+        <isWbmEnabled>false</isWbmEnabled>
+        <namespace>http://TWXD</namespace>
+        <isIidOptimized>true</isIidOptimized>
+        <isQueueBypass>1</isQueueBypass>
+    </projectDefaults>
+</teamworks>
+

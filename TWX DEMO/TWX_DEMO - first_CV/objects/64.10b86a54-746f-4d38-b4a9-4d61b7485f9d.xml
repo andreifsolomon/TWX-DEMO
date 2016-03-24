@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamworks>
+    <coachView id="64.10b86a54-746f-4d38-b4a9-4d61b7485f9d" name="my CV">
+        <lastModified>1458843719496</lastModified>
+        <lastModifiedBy>sp</lastModifiedBy>
+        <coachViewId>64.10b86a54-746f-4d38-b4a9-4d61b7485f9d</coachViewId>
+        <isTemplate>false</isTemplate>
+        <layout isNull="true" />
+        <paletteIcon isNull="true" />
+        <previewImage isNull="true" />
+        <hasLabel>false</hasLabel>
+        <labelPosition>0</labelPosition>
+        <nineSliceX1Coord isNull="true" />
+        <nineSliceX2Coord isNull="true" />
+        <nineSliceY1Coord isNull="true" />
+        <nineSliceY2Coord isNull="true" />
+        <emitBoundary>false</emitBoundary>
+        <isPrototypeFunc>false</isPrototypeFunc>
+        <enableDevMode>false</enableDevMode>
+        <isMobileReady>false</isMobileReady>
+        <loadJsFunction isNull="true" />
+        <unloadJsFunction isNull="true" />
+        <viewJsFunction isNull="true" />
+        <changeJsFunction isNull="true" />
+        <collaborationJsFunction isNull="true" />
+        <description isNull="true" />
+        <validateJsFunction isNull="true" />
+        <previewAdvHtml isNull="true" />
+        <previewAdvJs isNull="true" />
+        <useUrlBinding>false</useUrlBinding>
+        <guid>guid:efcfddd3d19146ab:-13862f9:153a9d7e34d:-7ffb</guid>
+        <versionId>f7ca4b2e-5b63-4bc0-8001-54b35b215ef7</versionId>
+        <configOption name="myConfigOption">
+            <lastModified isNull="true" />
+            <lastModifiedBy isNull="true" />
+            <coachViewConfigOptionId>66.7f507bd7-8fe3-4502-be2d-44e143520271</coachViewConfigOptionId>
+            <coachViewId>64.10b86a54-746f-4d38-b4a9-4d61b7485f9d</coachViewId>
+            <isList>false</isList>
+            <propertyType>OBJECT</propertyType>
+            <label></label>
+            <classId>dbf2a4c1-c74a-4449-b4c6-d6d88bebcaca/12.db884a3c-c533-44b7-bb2d-47bec8ad4022</classId>
+            <processId isNull="true" />
+            <isAdaptive>false</isAdaptive>
+            <seq>1</seq>
+            <description></description>
+            <groupName isNull="true" />
+            <guid>guid:efcfddd3d19146ab:-13862f9:153a9d7e34d:-7ffa</guid>
+            <versionId>338bb3c0-028c-4745-aeaa-fbb75dee76f7</versionId>
+        </configOption>
+        <resource>
+            <lastModified isNull="true" />
+            <lastModifiedBy isNull="true" />
+            <coachViewResourceId>67.86e7b819-fb36-4825-9c86-b97a544a5aae</coachViewResourceId>
+            <coachViewId>64.10b86a54-746f-4d38-b4a9-4d61b7485f9d</coachViewId>
+            <filePath isNull="true" />
+            <ieCondition isNull="true" />
+            <mediaQuery isNull="true" />
+            <scriptLoadStyle isNull="true" />
+            <assetUuid>/61.e4b3a2fa-4227-474c-bde0-db51166bcc5f</assetUuid>
+            <seq>1</seq>
+            <guid>68751624-15af-4fd7-932c-590c27f3a054</guid>
+            <versionId>8fde4d69-d047-47ab-90ee-5dff4d58ad45</versionId>
+        </resource>
+    </coachView>
+</teamworks>
+

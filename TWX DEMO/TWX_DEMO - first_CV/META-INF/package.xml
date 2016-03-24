@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:package buildId="BPM8560-20150304-164853" buildVersion="8.5.6" buildDescription="IBM Business Process Manager V8.5.6.0 - 20150304_1725 - BPM8560-20150304-164853" containsECM="false" xmlns:p="http://lombardisoftware.com/schema/teamworks/7.0.0/package.xsd">
+    <target>
+        <project id="2066.66f2faac-9a8d-4f64-8c45-096fff13e9e6" name="TWX DEMO" description="" shortName="TWXD" isToolkit="false" isHidden="false" isSystem="false"/>
+        <branch id="2063.ac2ecfb6-8139-46fb-b269-4834198dc616" name="Main" acronym="Main" description=""/>
+        <snapshot id="2064.2300091e-d8d3-44f3-a574-a71cdc18226c" name="first CV" acronym="FCV" originalCreationDate="2016-03-24T18:22:23.550Z" description=""/>
+    </target>
+    <governanceAssignments/>
+    <dependencies>
+        <dependency rank="1" id="2069.db531e57-932e-49f0-8684-4facea5cb284">
+            <project id="2066.b691179d-e7a4-4a27-b89b-f2263d0280e7" name="Coaches" shortName="SYSC" isToolkit="true" isHidden="false" isSystem="true"/>
+            <branch id="2063.50f91713-f1c4-4859-897f-89720db5dc3e" name="Main"/>
+            <snapshot id="2064.ff170178-0253-44d0-a3da-373e4f83966a" name="8.5.6.0" originalCreationDate="2014-06-24T14:28:47.473+01:00"/>
+        </dependency>
+        <dependency rank="0" id="2069.dbf2a4c1-c74a-4449-b4c6-d6d88bebcaca">
+            <project id="2066.1b351583-e5cb-43b7-baee-340a63130ea7" name="System Data" shortName="TWSYS" isToolkit="true" isHidden="false" isSystem="true"/>
+            <branch id="2063.0798815e-0346-4ef4-8946-ab4301c9f340" name="Main"/>
+            <snapshot id="2064.3fe4535e-574d-4711-a648-ef9d83496e64" name="8.5.6.0" originalCreationDate="2014-07-29T08:08:32.156+01:00"/>
+        </dependency>
+    </dependencies>
+    <objects>
+        <object id="1.51d77218-827d-4320-bf2d-15603bd41b5d" versionId="f88d57b2-8685-4cd7-b5ac-2ee4c15dfca6" name="Deployment Service" type="process"/>
+        <object id="1.82cdf700-9c4d-4946-9183-ab0058222ee8" versionId="e7fe9c19-13ad-40a8-9444-4fba7c42dc8f" name="my HS" type="process"/>
+        <object id="61.e4b3a2fa-4227-474c-bde0-db51166bcc5f" versionId="dc4d19c8-5562-4aac-9490-dbad8c6f8c8f" name="myJSConent.js" type="managedAsset"/>
+        <object id="62.6670d6f8-5a53-4164-af1c-ed7941a6af4d" versionId="e3a9e39f-72a3-4beb-af72-9d5edaf38c75" name="Environment Variables" type="environmentVariableSet"/>
+        <object id="63.4a66fc9a-ed5f-4966-9007-9c1b9d647a11" versionId="47578b53-3c0c-4f96-9132-d292fc62a190" name="Process App Settings" type="projectDefaults"/>
+        <object id="64.10b86a54-746f-4d38-b4a9-4d61b7485f9d" versionId="f7ca4b2e-5b63-4bc0-8001-54b35b215ef7" name="my CV" type="coachView"/>
+    </objects>
+    <files>
+        <file path="1daa8f7e-a5a5-4654-a0b2-b918368a9ef7" id="61.e4b3a2fa-4227-474c-bde0-db51166bcc5f"/>
+    </files>
+</p:package>
